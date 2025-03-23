@@ -1,0 +1,4 @@
+# 设置git命令alias
+[alias]
+        s = status
+        l = log
